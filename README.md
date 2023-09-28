@@ -1,4 +1,4 @@
-# InvestAI Chatbot
+# 🤖️InvestAI Chatbot🤖️
 
 Welcome to the InvestAI Chatbot, a smarter way to manage your investments and financial aspirations. Explore various scenarios and make well-informed choices that align with your financial goals.
 
@@ -32,7 +32,7 @@ import seaborn as sns
 
 # Set a professional theme for plots
 sns.set_style("whitegrid")
-
+```
 ---
 ### Scenario 1: Creating an Account <a name="scenario-1-creating-an-account"></a>
 
