@@ -37,6 +37,7 @@ sns.set_style("whitegrid")
 ### Scenario 1: Creating an Account <a name="scenario-1-creating-an-account"></a>
 
 **Explanation:** In this scenario, the InvestAI Chatbot helps users create an account based on their investment goals and demographic information. It begins by gathering essential customer information, such as their first name, age, residency status, and annual income. The chatbot then validates the user's eligibility for various investment options based on this information. If the user meets the criteria, they are presented with a list of investment goals to choose from, such as building an emergency fund, buying a home, achieving financial independence, saving for retirement, or improving credit score.
+#1
 
 ### Scenario 2: Risk Profile <a name="scenario-2-risk-profile"></a>
 
